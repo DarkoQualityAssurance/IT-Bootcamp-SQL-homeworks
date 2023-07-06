@@ -1,7 +1,7 @@
 # IT-Bootcamp-SQL-homeworks
 SQL database homeworks and exercises
 
-Content :
+The content :
 Homeworks in Microsoft Word (Tasks and solution )
 1.D_05_Darko_Djekic.docx
 2.D_06_Darko_Djekic.docx
